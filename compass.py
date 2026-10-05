@@ -54,7 +54,7 @@ def main():
         if live != {'pid':value['pid'],'instance':value['instance']}: raise RuntimeError('实例身份不一致，拒绝停止未知进程')
         return value
     if options.command=='check':
-        for line in (ROOT/'requirements.lock').read_text().splitlines():
+        for line in (ROOT/'requirements.txt').read_text().splitlines():
             name,version=line.split('==')
             if importlib.metadata.version(name)!=version: raise RuntimeError('依赖不匹配：'+name)
         if sys.version_info < (3,10): raise RuntimeError('需要 Python 3.10+；实际验收为 3.13.11')
