@@ -288,10 +288,8 @@
         "visiting_student"
       ],
       "details": {
-        "eligibility": {
-          "doctoral_enrolled": true
-        },
-        "sponsor_required": true,
+        "eligibility": "Fictional enrolled doctoral student scenario",
+        "sponsor_required": "Fictional host approval required; individual acceptance unknown",
         "duration_min_months": 1,
         "duration_max_months": 12,
         "actions": [
@@ -302,7 +300,19 @@
         ],
         "costs": [],
         "cash_facts": [],
-        "funding_note": "Personal cash support unknown; project totals excluded."
+        "funding_note": "Personal cash support unknown; project totals excluded.",
+        "duration": "1-12 months (fictional)",
+        "window": "Current window unknown (fictional)",
+        "application_mode": "Fictional host review route",
+        "requirements": [
+          {
+            "key": "doctoral_enrolled",
+            "expected": true,
+            "label": "Fictional enrollment condition",
+            "evidence_url": "https://research.example.invalid/route/1",
+            "quote": "Invented demonstration only"
+          }
+        ]
       },
       "evidence": [
         {
@@ -450,7 +460,13 @@
               "method": "Control model",
               "physiological_basis": "Simulated signals only",
               "major_contribution": "Invented demonstration",
-              "why_relevant": "Illustrates fit evidence"
+              "why_relevant": "Illustrates fit evidence",
+              "problem": "Fictional population feedback stability",
+              "physiology": "Simulated signals only",
+              "contribution": "Invented demonstration",
+              "connection": "Illustrates fit evidence",
+              "limits": "Synthetic summary; no real scientific assertion.",
+              "year": 2000
             }
           ],
           "projects": [
@@ -556,11 +572,13 @@
           "section_unknown_reasons": {
             "support": "No visitor-specific commitment."
           },
-          "level": "deep"
+          "level": "deep",
+          "physiology_basis": "Simulated neural feedback only; no real scientific claim."
         },
         "questions": [
           "Current individual place remains unknown."
-        ]
+        ],
+        "contact_url": "https://research.example.invalid/contact/1"
       },
       "updated_at": "2000-01-01T00:00:00Z"
     }
@@ -599,10 +617,8 @@
         "visiting_student"
       ],
       "details": {
-        "eligibility": {
-          "doctoral_enrolled": true
-        },
-        "sponsor_required": true,
+        "eligibility": "Fictional enrolled doctoral student scenario",
+        "sponsor_required": "Fictional host approval required; individual acceptance unknown",
         "duration_min_months": 1,
         "duration_max_months": 12,
         "actions": [
@@ -613,7 +629,19 @@
         ],
         "costs": [],
         "cash_facts": [],
-        "funding_note": "Personal cash support unknown; project totals excluded."
+        "funding_note": "Personal cash support unknown; project totals excluded.",
+        "duration": "1-12 months (fictional)",
+        "window": "Current window unknown (fictional)",
+        "application_mode": "Fictional host review route",
+        "requirements": [
+          {
+            "key": "doctoral_enrolled",
+            "expected": true,
+            "label": "Fictional enrollment condition",
+            "evidence_url": "https://research.example.invalid/route/2",
+            "quote": "Invented demonstration only"
+          }
+        ]
       },
       "evidence": [
         {
@@ -765,11 +793,13 @@
           "section_unknown_reasons": {
             "support": "No visitor-specific commitment."
           },
-          "level": "basic"
+          "level": "basic",
+          "physiology_basis": "Simulated neural feedback only; no real scientific claim."
         },
         "questions": [
           "Current individual place remains unknown."
-        ]
+        ],
+        "contact_url": "https://research.example.invalid/contact/2"
       },
       "updated_at": "2000-01-01T00:00:00Z"
     }
@@ -808,10 +838,8 @@
         "visiting_student"
       ],
       "details": {
-        "eligibility": {
-          "doctoral_enrolled": true
-        },
-        "sponsor_required": true,
+        "eligibility": "Fictional enrolled doctoral student scenario",
+        "sponsor_required": "Fictional host approval required; individual acceptance unknown",
         "duration_min_months": 1,
         "duration_max_months": 12,
         "actions": [
@@ -822,7 +850,19 @@
         ],
         "costs": [],
         "cash_facts": [],
-        "funding_note": "Personal cash support unknown; project totals excluded."
+        "funding_note": "Personal cash support unknown; project totals excluded.",
+        "duration": "1-12 months (fictional)",
+        "window": "Current window unknown (fictional)",
+        "application_mode": "Fictional host review route",
+        "requirements": [
+          {
+            "key": "doctoral_enrolled",
+            "expected": true,
+            "label": "Fictional enrollment condition",
+            "evidence_url": "https://research.example.invalid/route/3",
+            "quote": "Invented demonstration only"
+          }
+        ]
       },
       "evidence": [
         {
@@ -974,11 +1014,13 @@
           "section_unknown_reasons": {
             "support": "No visitor-specific commitment."
           },
-          "level": "basic"
+          "level": "basic",
+          "physiology_basis": "Simulated neural feedback only; no real scientific claim."
         },
         "questions": [
           "Current individual place remains unknown."
-        ]
+        ],
+        "contact_url": "https://research.example.invalid/contact/3"
       },
       "updated_at": "2000-01-01T00:00:00Z"
     }
@@ -1017,10 +1059,8 @@
         "visiting_student"
       ],
       "details": {
-        "eligibility": {
-          "doctoral_enrolled": true
-        },
-        "sponsor_required": true,
+        "eligibility": "Fictional enrolled doctoral student scenario",
+        "sponsor_required": "Fictional host approval required; individual acceptance unknown",
         "duration_min_months": 1,
         "duration_max_months": 12,
         "actions": [
@@ -1031,7 +1071,19 @@
         ],
         "costs": [],
         "cash_facts": [],
-        "funding_note": "Personal cash support unknown; project totals excluded."
+        "funding_note": "Personal cash support unknown; project totals excluded.",
+        "duration": "1-12 months (fictional)",
+        "window": "Current window unknown (fictional)",
+        "application_mode": "Fictional host review route",
+        "requirements": [
+          {
+            "key": "doctoral_enrolled",
+            "expected": true,
+            "label": "Fictional enrollment condition",
+            "evidence_url": "https://research.example.invalid/route/4",
+            "quote": "Invented demonstration only"
+          }
+        ]
       },
       "evidence": [
         {
@@ -1183,11 +1235,13 @@
           "section_unknown_reasons": {
             "support": "No visitor-specific commitment."
           },
-          "level": "basic"
+          "level": "basic",
+          "physiology_basis": "Simulated neural feedback only; no real scientific claim."
         },
         "questions": [
           "Current individual place remains unknown."
-        ]
+        ],
+        "contact_url": "https://research.example.invalid/contact/4"
       },
       "updated_at": "2000-01-01T00:00:00Z"
     }
@@ -1226,10 +1280,8 @@
         "visiting_student"
       ],
       "details": {
-        "eligibility": {
-          "doctoral_enrolled": true
-        },
-        "sponsor_required": true,
+        "eligibility": "Fictional enrolled doctoral student scenario",
+        "sponsor_required": "Fictional host approval required; individual acceptance unknown",
         "duration_min_months": 1,
         "duration_max_months": 12,
         "actions": [
@@ -1240,7 +1292,19 @@
         ],
         "costs": [],
         "cash_facts": [],
-        "funding_note": "Personal cash support unknown; project totals excluded."
+        "funding_note": "Personal cash support unknown; project totals excluded.",
+        "duration": "1-12 months (fictional)",
+        "window": "Current window unknown (fictional)",
+        "application_mode": "Fictional host review route",
+        "requirements": [
+          {
+            "key": "doctoral_enrolled",
+            "expected": true,
+            "label": "Fictional enrollment condition",
+            "evidence_url": "https://research.example.invalid/route/5",
+            "quote": "Invented demonstration only"
+          }
+        ]
       },
       "evidence": [
         {
@@ -1392,11 +1456,13 @@
           "section_unknown_reasons": {
             "support": "No visitor-specific commitment."
           },
-          "level": "basic"
+          "level": "basic",
+          "physiology_basis": "Simulated neural feedback only; no real scientific claim."
         },
         "questions": [
           "Current individual place remains unknown."
-        ]
+        ],
+        "contact_url": "https://research.example.invalid/contact/5"
       },
       "updated_at": "2000-01-01T00:00:00Z"
     }
@@ -1435,10 +1501,8 @@
         "visiting_student"
       ],
       "details": {
-        "eligibility": {
-          "doctoral_enrolled": true
-        },
-        "sponsor_required": true,
+        "eligibility": "Fictional enrolled doctoral student scenario",
+        "sponsor_required": "Fictional host approval required; individual acceptance unknown",
         "duration_min_months": 1,
         "duration_max_months": 12,
         "actions": [
@@ -1449,7 +1513,19 @@
         ],
         "costs": [],
         "cash_facts": [],
-        "funding_note": "Personal cash support unknown; project totals excluded."
+        "funding_note": "Personal cash support unknown; project totals excluded.",
+        "duration": "1-12 months (fictional)",
+        "window": "Current window unknown (fictional)",
+        "application_mode": "Fictional host review route",
+        "requirements": [
+          {
+            "key": "doctoral_enrolled",
+            "expected": true,
+            "label": "Fictional enrollment condition",
+            "evidence_url": "https://research.example.invalid/route/6",
+            "quote": "Invented demonstration only"
+          }
+        ]
       },
       "evidence": [
         {
@@ -1601,11 +1677,13 @@
           "section_unknown_reasons": {
             "support": "No visitor-specific commitment."
           },
-          "level": "basic"
+          "level": "basic",
+          "physiology_basis": "Simulated neural feedback only; no real scientific claim."
         },
         "questions": [
           "Current individual place remains unknown."
-        ]
+        ],
+        "contact_url": "https://research.example.invalid/contact/6"
       },
       "updated_at": "2000-01-01T00:00:00Z"
     }
