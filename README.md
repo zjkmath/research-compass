@@ -8,7 +8,7 @@ Research Compass is a Django application for reviewing research fit, formal visi
 
 ## Quick start
 
-Python 3.10 or 3.13 and Git are supported by CI. SQLite is the default. From a clean clone:
+Python 3.10 or 3.13 and Git are supported by CI. SQLite is the default. The six exact dependency versions live in `requirements.txt`; `requirements.lock` is a compatible pip installation entry that includes that single manifest. Dependabot updates the standard manifest. From a clean clone:
 
 ```sh
 python -m venv .venv

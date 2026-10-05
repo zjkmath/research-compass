@@ -1,3 +1,4 @@
+# Runtime pins live in requirements.txt; requirements.lock is a pip installation alias.
 version: 2
 updates:
   - package-ecosystem: pip
