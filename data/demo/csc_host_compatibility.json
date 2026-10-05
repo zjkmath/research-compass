@@ -1,0 +1,42 @@
+{
+  "synthetic": true,
+  "records": {
+    "demo-01": {
+      "synthetic": true,
+      "host_csc_acceptance": "accepted",
+      "host_acceptance_scope": "Invented example, not an official institution policy.",
+      "strict_csc_actionable": true,
+      "current_csc_application_open": false,
+      "current_csc_application_state": "unknown",
+      "checks": {},
+      "checked_at": "2000-01-01T00:00:00Z",
+      "next_action": "Verify real official policy before importing real data.",
+      "funding_components": []
+    },
+    "demo-02": {
+      "synthetic": true,
+      "host_csc_acceptance": "restricted",
+      "host_acceptance_scope": "Invented example, not an official institution policy.",
+      "strict_csc_actionable": false,
+      "current_csc_application_open": false,
+      "current_csc_application_state": "unknown",
+      "checks": {},
+      "checked_at": "2000-01-01T00:00:00Z",
+      "next_action": "Verify real official policy before importing real data.",
+      "funding_components": []
+    },
+    "demo-03": {
+      "synthetic": true,
+      "host_csc_acceptance": "unknown",
+      "host_acceptance_scope": "Invented example, not an official institution policy.",
+      "strict_csc_actionable": false,
+      "current_csc_application_open": false,
+      "current_csc_application_state": "unknown",
+      "checks": {},
+      "checked_at": "2000-01-01T00:00:00Z",
+      "next_action": "Verify real official policy before importing real data.",
+      "funding_components": []
+    }
+  },
+  "source_ledger": {}
+}

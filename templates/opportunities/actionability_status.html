@@ -1,0 +1,6 @@
+<div class="contact-status" aria-label="当前角色与接收边界">
+<span>{{ item.get_role_class_display }}</span>
+<span>Host：{{ item.get_host_capability_display }}</span><span>{{ item.get_contact_receiving_status_display }}</span>
+{% if item.csc_host %}<a href="{% url 'priority20_detail' item.priority_scope.institution_key %}">CSC：{{ item.csc_host_label }}</a>{% endif %}
+</div><p class="next-contact"><strong>下一步</strong> {{ item.actionability_next|truncatechars:180 }}</p>
+{% if item.support_conditions %}<details class="condition-support"><summary>有条件资助制度 · 未确认个人获款</summary>{% for f in item.support_conditions %}<p>{{ f.provider }} · {{ f.kind_label }} · {{ f.year }}<br>{{ f.condition }}</p>{% endfor %}<p>个人现金承诺未知；制度额度、豁免或补足规则不等于本次访问收入。</p></details>{% else %}<p class="source-line">访问现金、Host补贴及费用减免尚未确认。</p>{% endif %}

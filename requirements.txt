@@ -1,0 +1,2 @@
+# Dependency discovery entry for package tooling; install from requirements.lock.
+-r requirements.lock

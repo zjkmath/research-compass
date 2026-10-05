@@ -1,0 +1,7 @@
+<details class="text-disclosure"><summary>官方入口与读取边界</summary><dl class="fact-list">
+<dt>导师主页</dt><dd>{% if target.details.official_links.mentor %}<a href="{{ target.details.official_links.mentor }}">官方个人页 ↗</a>{% else %}<a href="{{ target.url }}">已存官方研究入口 ↗</a>{% endif %}</dd>
+<dt>课题组主页</dt><dd>{% if target.details.official_links.lab %}<a href="{{ target.details.official_links.lab }}">来源所列课题组入口 ↗</a>{% if target.details.link_states.lab.status != 'READ' %} · 尚未确认此链接当前可读{% endif %}{% else %}本轮声明范围内未单独核实{% endif %}</dd>
+<dt>相关院系 / 中心</dt><dd>{% if target.details.official_links.unit %}<a href="{{ target.details.official_links.unit }}">官方单位目录 ↗</a>{% else %}独立目录入口未单列，身份来源见上方{% endif %}</dd>
+<dt>Join / 招聘</dt><dd>{% if target.details.official_links.join %}<a href="{{ target.details.official_links.join }}">公开入口 ↗</a> · 当前名额见具体公告{% else %}本轮声明范围内未核实具体招聘入口{% endif %}</dd>
+<dt>正式访问</dt><dd>{% if target.details.official_links.visit %}<a href="{{ target.details.official_links.visit }}">制度原文 ↗</a> · 身份及院系适用条件另核{% else %}尚未核实适用于该导师的正式路径{% endif %}</dd>
+</dl></details>

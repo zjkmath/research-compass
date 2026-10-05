@@ -1,0 +1,665 @@
+{
+  "synthetic": true,
+  "institutions": [
+    {
+      "key": "demo-01",
+      "official_name": "Synthetic University 01",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-01",
+      "aliases": [],
+      "organization_keys": [
+        "demo-01"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "CSC",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-01/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-02",
+      "official_name": "Synthetic University 02",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-02",
+      "aliases": [],
+      "organization_keys": [
+        "demo-02"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "CSC",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-02/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-03",
+      "official_name": "Synthetic University 03",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-03",
+      "aliases": [],
+      "organization_keys": [
+        "demo-03"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "CSC",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-03/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-04",
+      "official_name": "Synthetic University 04",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-04",
+      "aliases": [],
+      "organization_keys": [
+        "demo-04"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "CSC",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-04/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-05",
+      "official_name": "Synthetic University 05",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-05",
+      "aliases": [],
+      "organization_keys": [
+        "demo-05"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "CSC",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-05/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-06",
+      "official_name": "Synthetic University 06",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-06",
+      "aliases": [],
+      "organization_keys": [
+        "demo-06"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "CSC",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-06/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-07",
+      "official_name": "Synthetic University 07",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-07",
+      "aliases": [],
+      "organization_keys": [
+        "demo-07"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "CSC",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-07/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-08",
+      "official_name": "Synthetic University 08",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-08",
+      "aliases": [],
+      "organization_keys": [
+        "demo-08"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "CSC",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-08/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-09",
+      "official_name": "Synthetic University 09",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-09",
+      "aliases": [],
+      "organization_keys": [
+        "demo-09"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "CSC",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-09/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-10",
+      "official_name": "Synthetic University 10",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-10",
+      "aliases": [],
+      "organization_keys": [
+        "demo-10"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "CSC",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-10/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-11",
+      "official_name": "Synthetic University 11",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-11",
+      "aliases": [],
+      "organization_keys": [
+        "demo-11"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "YUANHANG",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-11/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-12",
+      "official_name": "Synthetic University 12",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-12",
+      "aliases": [],
+      "organization_keys": [
+        "demo-12"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "YUANHANG",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-12/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-13",
+      "official_name": "Synthetic University 13",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-13",
+      "aliases": [],
+      "organization_keys": [
+        "demo-13"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "YUANHANG",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-13/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-14",
+      "official_name": "Synthetic University 14",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-14",
+      "aliases": [],
+      "organization_keys": [
+        "demo-14"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "YUANHANG",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-14/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-15",
+      "official_name": "Synthetic University 15",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-15",
+      "aliases": [],
+      "organization_keys": [
+        "demo-15"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "YUANHANG",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-15/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-16",
+      "official_name": "Synthetic University 16",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-16",
+      "aliases": [],
+      "organization_keys": [
+        "demo-16"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "YUANHANG",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-16/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-17",
+      "official_name": "Synthetic University 17",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-17",
+      "aliases": [],
+      "organization_keys": [
+        "demo-17"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "YUANHANG",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-17/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-18",
+      "official_name": "Synthetic University 18",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-18",
+      "aliases": [],
+      "organization_keys": [
+        "demo-18"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "YUANHANG",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-18/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-19",
+      "official_name": "Synthetic University 19",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-19",
+      "aliases": [],
+      "organization_keys": [
+        "demo-19"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "YUANHANG",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-19/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    },
+    {
+      "key": "demo-20",
+      "official_name": "Synthetic University 20",
+      "country": "合成地区",
+      "official_url": "https://research.example.invalid/demo-20",
+      "aliases": [],
+      "organization_keys": [
+        "demo-20"
+      ],
+      "last_verified_at": "2000-01-01T00:00:00Z",
+      "identity_evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "channel": {
+        "priority_channel": "YUANHANG",
+        "channel_status": "synthetic",
+        "channel_url": "https://research.example.invalid/demo-20/channel",
+        "current_program_verified": false,
+        "current_application_open": null,
+        "eligibility_summary": "Fictional visiting doctoral student scenario; no real eligibility assertion.",
+        "funding_summary": "Synthetic policy; individual funding unknown.",
+        "limitations": [
+          "Demo only."
+        ]
+      }
+    }
+  ]
+}

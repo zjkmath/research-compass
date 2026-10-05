@@ -1,0 +1,1 @@
+All records, people, institutions, amounts, dates, rankings, channels and evidence are invented. `.invalid` links intentionally cannot resolve. No network permissions or accounts are seeded. Do not use these records for applications.

@@ -1,0 +1,16 @@
+<article class="opportunity-card job-card" id="opportunity-{{ item.pk }}">
+<div class="card-top"><span class="type-label">{{ item.get_type_display }} · {{ item.country }}</span><span class="status {{ item.effective_status }}">{{ item.status_label }}</span></div>
+<h3><a href="{% url 'detail' item.pk %}?return_to={{ return_url|urlencode }}%23opportunity-{{ item.pk }}">{{ item.title_zh }}</a></h3>
+<div class="job-context">{{ item.institution.name }} <span>· {{ item.discipline }}</span></div>
+{% include 'opportunities/identity_fit.html' %}{% include 'opportunities/selection.html' %}{% if item.curation.research_connection %}<p class="job-research">{{ item.curation.research_connection|truncatechars:112 }}</p>{% endif %}
+<details class="original-disclosure"><summary>原文标题{% if item.translation_status == 'pending' %} · 中文待核{% endif %}</summary><p>{{ item.title }}</p></details>
+{% if item.cash_facts %}<div class="job-money">{% for fact in item.cash_facts %}<span><strong>{% if '近似报价' in fact.note %}约 {% endif %}{{ fact.currency }} {% if fact.amount != None %}{{ fact.amount|floatformat:'-2' }}{% if fact.amount_max %}–{{ fact.amount_max|floatformat:'-2' }}{% endif %}{% else %}金额未知{% endif %}</strong> / {{ fact.get_pay_period_display }} · {{ fact.get_tax_basis_display }}</span>{% if not fact.comparability_verified and fact.note %}<small>{{ fact.note|truncatechars:110 }}</small>{% endif %}{% endfor %}
+{% for fact in item.cash_facts %}{% if fact.applicable_year %}<small>公布标准适用 {{ fact.applicable_year }}</small>{% endif %}{% endfor %}
+{% if item.comparison %}<small>同组月现金下限 {{ item.comparison.fact.currency }} {{ item.comparison.monthly_original|floatformat:2 }} · {{ item.comparison.year }}</small>{% else %}<small>当前比较未确认：{{ item.comparison_reason }}</small>{% endif %}</div>{% endif %}
+{% if item.action_view %}<div class="job-action"><span>{{ item.action_view.label }}{% if item.action_view.date %} · {{ item.action_view.date|date:'Y-m-d' }}{% endif %}</span>{% if item.action_view.risk %}<strong class="risk">{{ item.action_view.risk }}</strong>{% endif %}</div>{% endif %}
+{% if item.curation.next_action %}<p class="next-action"><span class="micro-label">下一步</span>{{ item.curation.next_action|truncatechars:100 }}</p>{% endif %}
+{% if item.pending_change %}<p class="risk">来源变化待审 · 可回看已发布版本</p>{% endif %}
+<footer class="job-footer"><a href="{{ item.url }}" rel="noopener noreferrer">官方原文 ↗</a><small>{{ item.verified_at|date:'Y-m-d' }} 辅助核查</small>
+{% if user.is_authenticated %}<form method="post" action="{% url 'record' item.pk %}">{% csrf_token %}<input type="hidden" name="action" value="bookmark"><input type="hidden" name="return_to" value="{{ return_url }}#opportunity-{{ item.pk }}"><button class="bookmark">{% if item.pk in saved_ids %}★ 已收藏{% else %}☆ 收藏{% endif %}</button></form>{% else %}<a class="bookmark" href="{% url 'login' %}?next={{ item.detail_url|urlencode }}">☆ 收藏</a>{% endif %}
+<a href="{% url 'detail' item.pk %}?return_to={{ return_url|urlencode }}%23opportunity-{{ item.pk }}">详情与证据 →</a></footer>
+</article>

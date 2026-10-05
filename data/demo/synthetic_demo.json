@@ -1,0 +1,2369 @@
+[
+  {
+    "model": "opportunities.organization",
+    "pk": 1,
+    "fields": {
+      "key": "demo-01",
+      "name": "Synthetic University 01",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-01",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 2,
+    "fields": {
+      "key": "demo-02",
+      "name": "Synthetic University 02",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-02",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 3,
+    "fields": {
+      "key": "demo-03",
+      "name": "Synthetic University 03",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-03",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 4,
+    "fields": {
+      "key": "demo-04",
+      "name": "Synthetic University 04",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-04",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 5,
+    "fields": {
+      "key": "demo-05",
+      "name": "Synthetic University 05",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-05",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 6,
+    "fields": {
+      "key": "demo-06",
+      "name": "Synthetic University 06",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-06",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 7,
+    "fields": {
+      "key": "demo-07",
+      "name": "Synthetic University 07",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-07",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 8,
+    "fields": {
+      "key": "demo-08",
+      "name": "Synthetic University 08",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-08",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 9,
+    "fields": {
+      "key": "demo-09",
+      "name": "Synthetic University 09",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-09",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 10,
+    "fields": {
+      "key": "demo-10",
+      "name": "Synthetic University 10",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-10",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 11,
+    "fields": {
+      "key": "demo-11",
+      "name": "Synthetic University 11",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-11",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 12,
+    "fields": {
+      "key": "demo-12",
+      "name": "Synthetic University 12",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-12",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 13,
+    "fields": {
+      "key": "demo-13",
+      "name": "Synthetic University 13",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-13",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 14,
+    "fields": {
+      "key": "demo-14",
+      "name": "Synthetic University 14",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-14",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 15,
+    "fields": {
+      "key": "demo-15",
+      "name": "Synthetic University 15",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-15",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 16,
+    "fields": {
+      "key": "demo-16",
+      "name": "Synthetic University 16",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-16",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 17,
+    "fields": {
+      "key": "demo-17",
+      "name": "Synthetic University 17",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-17",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 18,
+    "fields": {
+      "key": "demo-18",
+      "name": "Synthetic University 18",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-18",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 19,
+    "fields": {
+      "key": "demo-19",
+      "name": "Synthetic University 19",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-19",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 20,
+    "fields": {
+      "key": "demo-20",
+      "name": "Synthetic University 20",
+      "kind": "university",
+      "country": "合成地区",
+      "url": "https://research.example.invalid/demo-20",
+      "note": "Entirely fictional"
+    }
+  },
+  {
+    "model": "opportunities.source",
+    "pk": 1,
+    "fields": {
+      "key": "synthetic-manual",
+      "name": "Synthetic evidence source (no network authorization)",
+      "url": "https://research.example.invalid/",
+      "region": "合成地区",
+      "access_method": "manual",
+      "automation_allowed": false,
+      "policy_note": "Demo only; no live collection permission.",
+      "scope": {},
+      "adapter": ""
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 101,
+    "fields": {
+      "key": "demo-lab-1",
+      "name": "Synthetic Dynamics Lab 1",
+      "kind": "lab",
+      "parent": 1,
+      "url": "https://research.example.invalid/lab/1"
+    }
+  },
+  {
+    "model": "opportunities.person",
+    "pk": 1,
+    "fields": {
+      "name": "Demo Researcher A",
+      "organization": 101,
+      "url": "https://research.example.invalid/person/1",
+      "evidence": "Invented individual",
+      "verified_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.visitpath",
+    "pk": 1,
+    "fields": {
+      "key": "demo-path-1",
+      "institution": 1,
+      "name": "Synthetic visiting route 1",
+      "url": "https://research.example.invalid/route/1",
+      "identity_types": [
+        "visiting_student"
+      ],
+      "details": {
+        "eligibility": {
+          "doctoral_enrolled": true
+        },
+        "sponsor_required": true,
+        "duration_min_months": 1,
+        "duration_max_months": 12,
+        "actions": [
+          {
+            "label": "Check fictional host availability",
+            "url": "https://research.example.invalid/route/1"
+          }
+        ],
+        "costs": [],
+        "cash_facts": [],
+        "funding_note": "Personal cash support unknown; project totals excluded."
+      },
+      "evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "verified_at": "2000-01-01T00:00:00Z",
+      "is_published": true
+    }
+  },
+  {
+    "model": "opportunities.researchtarget",
+    "pk": 1,
+    "fields": {
+      "key": "demo-target-1",
+      "institution": 1,
+      "group": 101,
+      "mentors": [
+        1
+      ],
+      "paths": [
+        1
+      ],
+      "region": "合成地区",
+      "country": "合成地区",
+      "themes": [
+        "neural_dynamics",
+        "control"
+      ],
+      "url": "https://research.example.invalid/lab/1",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "is_published": true,
+      "receiving_status": "unknown",
+      "role_class": "group_leader",
+      "host_capability": "plausible_but_unverified",
+      "actionability": "contact_candidate",
+      "classification_evidence": {
+        "current_active": true,
+        "institution_verified": true,
+        "official_profile_url": "https://research.example.invalid/person/1",
+        "route_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "next_action": "Review invented host route; do not contact any real person.",
+        "personal_research_bridge": "Synthetic neural feedback scenario",
+        "current_role": "Fictional group leader",
+        "support_flags": [],
+        "host_verified_at": "2000-01-01T00:00:00Z",
+        "identity_verified_at": "2000-01-01T00:00:00Z"
+      },
+      "pending_change": false,
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "A",
+        "fit_reason": "虚构闭环神经动力学示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "details": {
+        "research_basis": [
+          {
+            "title": "Synthetic neural control",
+            "summary": "Invented feedback mechanism",
+            "url": "https://research.example.invalid/paper",
+            "reading_scope": "official_summary"
+          }
+        ],
+        "match_reason": "虚构神经反馈机制与控制方法连接",
+        "physiology_basis": "Simulated neural feedback; no real scientific claim.",
+        "dossier": {
+          "level": "deep"
+        },
+        "mentor_profile": {
+          "identity": {
+            "institution": "Synthetic University 01",
+            "title": "Fictional group leader",
+            "independent_pi": true,
+            "official_homepage": "https://research.example.invalid/person/1",
+            "last_verified": "2000-01-01T00:00:00Z",
+            "official_profile": "https://research.example.invalid/person/1"
+          },
+          "awards": [
+            {
+              "status": "verified",
+              "source_url": "https://research.example.invalid/evidence",
+              "url": "https://research.example.invalid/evidence",
+              "quote": "Synthetic evidence — invented for software demonstration only.",
+              "verified_at": "2000-01-01T00:00:00Z",
+              "last_verified": "2000-01-01T00:00:00Z",
+              "name": "Synthetic Methods Prize",
+              "year": 2000,
+              "awarding_body": "Fictional Society"
+            }
+          ],
+          "honors": [],
+          "membership": [],
+          "works": [
+            {
+              "status": "verified",
+              "source_url": "https://research.example.invalid/evidence",
+              "url": "https://research.example.invalid/evidence",
+              "quote": "Synthetic evidence — invented for software demonstration only.",
+              "verified_at": "2000-01-01T00:00:00Z",
+              "last_verified": "2000-01-01T00:00:00Z",
+              "title": "Synthetic recurrent dynamics model",
+              "reading_scope": "official_summary",
+              "scientific_problem": "Fictional population feedback stability",
+              "method": "Control model",
+              "physiological_basis": "Simulated signals only",
+              "major_contribution": "Invented demonstration",
+              "why_relevant": "Illustrates fit evidence"
+            }
+          ],
+          "projects": [
+            {
+              "status": "verified",
+              "source_url": "https://research.example.invalid/evidence",
+              "url": "https://research.example.invalid/evidence",
+              "quote": "Synthetic evidence — invented for software demonstration only.",
+              "verified_at": "2000-01-01T00:00:00Z",
+              "last_verified": "2000-01-01T00:00:00Z",
+              "title": "Fictional Feedback Project",
+              "role": "PI",
+              "funder": "Synthetic Research Fund",
+              "start_date": "2000-01-01",
+              "end_date": "2001-01-01",
+              "total_amount": 100000,
+              "currency": "EUR",
+              "visitor_cash": null,
+              "funders": [
+                "Synthetic Research Fund"
+              ],
+              "pi_co_pi_role": "PI",
+              "start": "2000-01-01",
+              "end": "2001-01-01",
+              "public_total": {
+                "amount": 100000,
+                "currency": "EUR"
+              },
+              "amount_note": "Synthetic project total; never visitor salary."
+            }
+          ],
+          "support": {
+            "stipend": {
+              "status": "unknown",
+              "amount": null,
+              "reason": "No personal award evidence"
+            }
+          },
+          "alumni": {
+            "total_publicly_listed_count": 2,
+            "items": [
+              {
+                "name": "Synthetic Alumnus One",
+                "relationship": "PhD",
+                "relationship_evidence": {
+                  "status": "verified",
+                  "source_url": "https://research.example.invalid/evidence",
+                  "url": "https://research.example.invalid/evidence",
+                  "quote": "Synthetic evidence — invented for software demonstration only.",
+                  "verified_at": "2000-01-01T00:00:00Z",
+                  "last_verified": "2000-01-01T00:00:00Z"
+                },
+                "first_destination": {
+                  "status": "verified",
+                  "source_url": "https://research.example.invalid/evidence",
+                  "url": "https://research.example.invalid/evidence",
+                  "quote": "Synthetic evidence — invented for software demonstration only.",
+                  "verified_at": "2000-01-01T00:00:00Z",
+                  "last_verified": "2000-01-01T00:00:00Z",
+                  "value": "Fictional Research Centre"
+                },
+                "current_destination": {
+                  "status": "unknown"
+                }
+              },
+              {
+                "name": "Synthetic Alumnus Two",
+                "relationship": "postdoc",
+                "relationship_evidence": {
+                  "status": "verified",
+                  "source_url": "https://research.example.invalid/evidence",
+                  "url": "https://research.example.invalid/evidence",
+                  "quote": "Synthetic evidence — invented for software demonstration only.",
+                  "verified_at": "2000-01-01T00:00:00Z",
+                  "last_verified": "2000-01-01T00:00:00Z"
+                },
+                "first_destination": {
+                  "status": "unknown"
+                }
+              }
+            ]
+          },
+          "lineage": {
+            "phd_advisor": {
+              "status": "verified",
+              "source_url": "https://research.example.invalid/evidence",
+              "url": "https://research.example.invalid/evidence",
+              "quote": "Synthetic evidence — invented for software demonstration only.",
+              "verified_at": "2000-01-01T00:00:00Z",
+              "last_verified": "2000-01-01T00:00:00Z",
+              "value": "Synthetic Mentor Z"
+            },
+            "postdoc_mentor": {
+              "status": "unknown"
+            }
+          },
+          "professional_roles": {
+            "academic_and_public": [],
+            "industry": {
+              "items": []
+            }
+          },
+          "section_unknown_reasons": {
+            "support": "No visitor-specific commitment."
+          },
+          "level": "deep"
+        },
+        "questions": [
+          "Current individual place remains unknown."
+        ]
+      },
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 102,
+    "fields": {
+      "key": "demo-lab-2",
+      "name": "Synthetic Dynamics Lab 2",
+      "kind": "lab",
+      "parent": 2,
+      "url": "https://research.example.invalid/lab/2"
+    }
+  },
+  {
+    "model": "opportunities.person",
+    "pk": 2,
+    "fields": {
+      "name": "Demo Researcher B",
+      "organization": 102,
+      "url": "https://research.example.invalid/person/2",
+      "evidence": "Invented individual",
+      "verified_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.visitpath",
+    "pk": 2,
+    "fields": {
+      "key": "demo-path-2",
+      "institution": 2,
+      "name": "Synthetic visiting route 2",
+      "url": "https://research.example.invalid/route/2",
+      "identity_types": [
+        "visiting_student"
+      ],
+      "details": {
+        "eligibility": {
+          "doctoral_enrolled": true
+        },
+        "sponsor_required": true,
+        "duration_min_months": 1,
+        "duration_max_months": 12,
+        "actions": [
+          {
+            "label": "Check fictional host availability",
+            "url": "https://research.example.invalid/route/2"
+          }
+        ],
+        "costs": [],
+        "cash_facts": [],
+        "funding_note": "Personal cash support unknown; project totals excluded."
+      },
+      "evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "verified_at": "2000-01-01T00:00:00Z",
+      "is_published": true
+    }
+  },
+  {
+    "model": "opportunities.researchtarget",
+    "pk": 2,
+    "fields": {
+      "key": "demo-target-2",
+      "institution": 2,
+      "group": 102,
+      "mentors": [
+        2
+      ],
+      "paths": [
+        2
+      ],
+      "region": "合成地区",
+      "country": "合成地区",
+      "themes": [
+        "neural_dynamics",
+        "control"
+      ],
+      "url": "https://research.example.invalid/lab/2",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "is_published": true,
+      "receiving_status": "unknown",
+      "role_class": "group_leader",
+      "host_capability": "plausible_but_unverified",
+      "actionability": "contact_candidate",
+      "classification_evidence": {
+        "current_active": true,
+        "institution_verified": true,
+        "official_profile_url": "https://research.example.invalid/person/2",
+        "route_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "next_action": "Review invented host route; do not contact any real person.",
+        "personal_research_bridge": "Synthetic neural feedback scenario",
+        "current_role": "Fictional group leader",
+        "support_flags": [],
+        "host_verified_at": "2000-01-01T00:00:00Z",
+        "identity_verified_at": "2000-01-01T00:00:00Z"
+      },
+      "pending_change": false,
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "A",
+        "fit_reason": "虚构闭环神经动力学示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "details": {
+        "research_basis": [
+          {
+            "title": "Synthetic neural control",
+            "summary": "Invented feedback mechanism",
+            "url": "https://research.example.invalid/paper",
+            "reading_scope": "official_summary"
+          }
+        ],
+        "match_reason": "虚构神经反馈机制与控制方法连接",
+        "physiology_basis": "Simulated neural feedback; no real scientific claim.",
+        "dossier": {
+          "level": "basic"
+        },
+        "mentor_profile": {
+          "identity": {
+            "institution": "Synthetic University 02",
+            "title": "Fictional group leader",
+            "independent_pi": true,
+            "official_homepage": "https://research.example.invalid/person/2",
+            "last_verified": "2000-01-01T00:00:00Z",
+            "official_profile": "https://research.example.invalid/person/2"
+          },
+          "awards": [],
+          "honors": [],
+          "membership": [],
+          "works": [],
+          "projects": [],
+          "support": {
+            "stipend": {
+              "status": "unknown",
+              "amount": null,
+              "reason": "No personal award evidence"
+            }
+          },
+          "alumni": {
+            "total_publicly_listed_count": null,
+            "items": []
+          },
+          "lineage": {
+            "phd_advisor": {
+              "status": "unknown"
+            },
+            "postdoc_mentor": {
+              "status": "unknown"
+            }
+          },
+          "professional_roles": {
+            "academic_and_public": [],
+            "industry": {
+              "items": []
+            }
+          },
+          "section_unknown_reasons": {
+            "support": "No visitor-specific commitment."
+          },
+          "level": "basic"
+        },
+        "questions": [
+          "Current individual place remains unknown."
+        ]
+      },
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 103,
+    "fields": {
+      "key": "demo-lab-3",
+      "name": "Synthetic Dynamics Lab 3",
+      "kind": "lab",
+      "parent": 3,
+      "url": "https://research.example.invalid/lab/3"
+    }
+  },
+  {
+    "model": "opportunities.person",
+    "pk": 3,
+    "fields": {
+      "name": "Demo Researcher C",
+      "organization": 103,
+      "url": "https://research.example.invalid/person/3",
+      "evidence": "Invented individual",
+      "verified_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.visitpath",
+    "pk": 3,
+    "fields": {
+      "key": "demo-path-3",
+      "institution": 3,
+      "name": "Synthetic visiting route 3",
+      "url": "https://research.example.invalid/route/3",
+      "identity_types": [
+        "visiting_student"
+      ],
+      "details": {
+        "eligibility": {
+          "doctoral_enrolled": true
+        },
+        "sponsor_required": true,
+        "duration_min_months": 1,
+        "duration_max_months": 12,
+        "actions": [
+          {
+            "label": "Check fictional host availability",
+            "url": "https://research.example.invalid/route/3"
+          }
+        ],
+        "costs": [],
+        "cash_facts": [],
+        "funding_note": "Personal cash support unknown; project totals excluded."
+      },
+      "evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "verified_at": "2000-01-01T00:00:00Z",
+      "is_published": true
+    }
+  },
+  {
+    "model": "opportunities.researchtarget",
+    "pk": 3,
+    "fields": {
+      "key": "demo-target-3",
+      "institution": 3,
+      "group": 103,
+      "mentors": [
+        3
+      ],
+      "paths": [
+        3
+      ],
+      "region": "合成地区",
+      "country": "合成地区",
+      "themes": [
+        "neural_dynamics",
+        "control"
+      ],
+      "url": "https://research.example.invalid/lab/3",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "is_published": true,
+      "receiving_status": "unknown",
+      "role_class": "group_leader",
+      "host_capability": "unknown",
+      "actionability": "research_watchlist",
+      "classification_evidence": {
+        "current_active": true,
+        "institution_verified": true,
+        "official_profile_url": "https://research.example.invalid/person/3",
+        "route_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "next_action": "Review invented host route; do not contact any real person.",
+        "personal_research_bridge": "Synthetic neural feedback scenario",
+        "current_role": "Fictional group leader",
+        "support_flags": [],
+        "host_verified_at": "2000-01-01T00:00:00Z",
+        "identity_verified_at": "2000-01-01T00:00:00Z"
+      },
+      "pending_change": false,
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "A",
+        "fit_reason": "虚构闭环神经动力学示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "details": {
+        "research_basis": [
+          {
+            "title": "Synthetic neural control",
+            "summary": "Invented feedback mechanism",
+            "url": "https://research.example.invalid/paper",
+            "reading_scope": "official_summary"
+          }
+        ],
+        "match_reason": "虚构神经反馈机制与控制方法连接",
+        "physiology_basis": "Simulated neural feedback; no real scientific claim.",
+        "dossier": {
+          "level": "basic"
+        },
+        "mentor_profile": {
+          "identity": {
+            "institution": "Synthetic University 03",
+            "title": "Fictional group leader",
+            "independent_pi": true,
+            "official_homepage": "https://research.example.invalid/person/3",
+            "last_verified": "2000-01-01T00:00:00Z",
+            "official_profile": "https://research.example.invalid/person/3"
+          },
+          "awards": [],
+          "honors": [],
+          "membership": [],
+          "works": [],
+          "projects": [],
+          "support": {
+            "stipend": {
+              "status": "unknown",
+              "amount": null,
+              "reason": "No personal award evidence"
+            }
+          },
+          "alumni": {
+            "total_publicly_listed_count": null,
+            "items": []
+          },
+          "lineage": {
+            "phd_advisor": {
+              "status": "unknown"
+            },
+            "postdoc_mentor": {
+              "status": "unknown"
+            }
+          },
+          "professional_roles": {
+            "academic_and_public": [],
+            "industry": {
+              "items": []
+            }
+          },
+          "section_unknown_reasons": {
+            "support": "No visitor-specific commitment."
+          },
+          "level": "basic"
+        },
+        "questions": [
+          "Current individual place remains unknown."
+        ]
+      },
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 104,
+    "fields": {
+      "key": "demo-lab-4",
+      "name": "Synthetic Dynamics Lab 4",
+      "kind": "lab",
+      "parent": 4,
+      "url": "https://research.example.invalid/lab/4"
+    }
+  },
+  {
+    "model": "opportunities.person",
+    "pk": 4,
+    "fields": {
+      "name": "Demo Researcher D",
+      "organization": 104,
+      "url": "https://research.example.invalid/person/4",
+      "evidence": "Invented individual",
+      "verified_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.visitpath",
+    "pk": 4,
+    "fields": {
+      "key": "demo-path-4",
+      "institution": 4,
+      "name": "Synthetic visiting route 4",
+      "url": "https://research.example.invalid/route/4",
+      "identity_types": [
+        "visiting_student"
+      ],
+      "details": {
+        "eligibility": {
+          "doctoral_enrolled": true
+        },
+        "sponsor_required": true,
+        "duration_min_months": 1,
+        "duration_max_months": 12,
+        "actions": [
+          {
+            "label": "Check fictional host availability",
+            "url": "https://research.example.invalid/route/4"
+          }
+        ],
+        "costs": [],
+        "cash_facts": [],
+        "funding_note": "Personal cash support unknown; project totals excluded."
+      },
+      "evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "verified_at": "2000-01-01T00:00:00Z",
+      "is_published": true
+    }
+  },
+  {
+    "model": "opportunities.researchtarget",
+    "pk": 4,
+    "fields": {
+      "key": "demo-target-4",
+      "institution": 4,
+      "group": 104,
+      "mentors": [
+        4
+      ],
+      "paths": [
+        4
+      ],
+      "region": "合成地区",
+      "country": "合成地区",
+      "themes": [
+        "neural_dynamics",
+        "control"
+      ],
+      "url": "https://research.example.invalid/lab/4",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "is_published": true,
+      "receiving_status": "unknown",
+      "role_class": "group_leader",
+      "host_capability": "unknown",
+      "actionability": "research_watchlist",
+      "classification_evidence": {
+        "current_active": true,
+        "institution_verified": true,
+        "official_profile_url": "https://research.example.invalid/person/4",
+        "route_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "next_action": "Review invented host route; do not contact any real person.",
+        "personal_research_bridge": "Synthetic neural feedback scenario",
+        "current_role": "Fictional group leader",
+        "support_flags": [],
+        "host_verified_at": "2000-01-01T00:00:00Z",
+        "identity_verified_at": "2000-01-01T00:00:00Z"
+      },
+      "pending_change": true,
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "B",
+        "fit_reason": "虚构控制方法延伸示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "details": {
+        "research_basis": [
+          {
+            "title": "Synthetic neural control",
+            "summary": "Invented feedback mechanism",
+            "url": "https://research.example.invalid/paper",
+            "reading_scope": "official_summary"
+          }
+        ],
+        "match_reason": "虚构神经反馈机制与控制方法连接",
+        "physiology_basis": "Simulated neural feedback; no real scientific claim.",
+        "dossier": {
+          "level": "basic"
+        },
+        "mentor_profile": {
+          "identity": {
+            "institution": "Synthetic University 04",
+            "title": "Fictional group leader",
+            "independent_pi": true,
+            "official_homepage": "https://research.example.invalid/person/4",
+            "last_verified": "2000-01-01T00:00:00Z",
+            "official_profile": "https://research.example.invalid/person/4"
+          },
+          "awards": [],
+          "honors": [],
+          "membership": [],
+          "works": [],
+          "projects": [],
+          "support": {
+            "stipend": {
+              "status": "unknown",
+              "amount": null,
+              "reason": "No personal award evidence"
+            }
+          },
+          "alumni": {
+            "total_publicly_listed_count": null,
+            "items": []
+          },
+          "lineage": {
+            "phd_advisor": {
+              "status": "unknown"
+            },
+            "postdoc_mentor": {
+              "status": "unknown"
+            }
+          },
+          "professional_roles": {
+            "academic_and_public": [],
+            "industry": {
+              "items": []
+            }
+          },
+          "section_unknown_reasons": {
+            "support": "No visitor-specific commitment."
+          },
+          "level": "basic"
+        },
+        "questions": [
+          "Current individual place remains unknown."
+        ]
+      },
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 105,
+    "fields": {
+      "key": "demo-lab-5",
+      "name": "Synthetic Dynamics Lab 5",
+      "kind": "lab",
+      "parent": 5,
+      "url": "https://research.example.invalid/lab/5"
+    }
+  },
+  {
+    "model": "opportunities.person",
+    "pk": 5,
+    "fields": {
+      "name": "Demo Researcher E",
+      "organization": 105,
+      "url": "https://research.example.invalid/person/5",
+      "evidence": "Invented individual",
+      "verified_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.visitpath",
+    "pk": 5,
+    "fields": {
+      "key": "demo-path-5",
+      "institution": 5,
+      "name": "Synthetic visiting route 5",
+      "url": "https://research.example.invalid/route/5",
+      "identity_types": [
+        "visiting_student"
+      ],
+      "details": {
+        "eligibility": {
+          "doctoral_enrolled": true
+        },
+        "sponsor_required": true,
+        "duration_min_months": 1,
+        "duration_max_months": 12,
+        "actions": [
+          {
+            "label": "Check fictional host availability",
+            "url": "https://research.example.invalid/route/5"
+          }
+        ],
+        "costs": [],
+        "cash_facts": [],
+        "funding_note": "Personal cash support unknown; project totals excluded."
+      },
+      "evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "verified_at": "2000-01-01T00:00:00Z",
+      "is_published": true
+    }
+  },
+  {
+    "model": "opportunities.researchtarget",
+    "pk": 5,
+    "fields": {
+      "key": "demo-target-5",
+      "institution": 5,
+      "group": 105,
+      "mentors": [
+        5
+      ],
+      "paths": [
+        5
+      ],
+      "region": "合成地区",
+      "country": "合成地区",
+      "themes": [
+        "neural_dynamics",
+        "control"
+      ],
+      "url": "https://research.example.invalid/lab/5",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "is_published": true,
+      "receiving_status": "unknown",
+      "role_class": "group_leader",
+      "host_capability": "unknown",
+      "actionability": "research_watchlist",
+      "classification_evidence": {
+        "current_active": true,
+        "institution_verified": true,
+        "official_profile_url": "https://research.example.invalid/person/5",
+        "route_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "next_action": "Review invented host route; do not contact any real person.",
+        "personal_research_bridge": "Synthetic neural feedback scenario",
+        "current_role": "Fictional group leader",
+        "support_flags": [],
+        "host_verified_at": "2000-01-01T00:00:00Z",
+        "identity_verified_at": "2000-01-01T00:00:00Z"
+      },
+      "pending_change": false,
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "B",
+        "fit_reason": "虚构控制方法延伸示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "details": {
+        "research_basis": [
+          {
+            "title": "Synthetic neural control",
+            "summary": "Invented feedback mechanism",
+            "url": "https://research.example.invalid/paper",
+            "reading_scope": "official_summary"
+          }
+        ],
+        "match_reason": "虚构神经反馈机制与控制方法连接",
+        "physiology_basis": "Simulated neural feedback; no real scientific claim.",
+        "dossier": {
+          "level": "basic"
+        },
+        "mentor_profile": {
+          "identity": {
+            "institution": "Synthetic University 05",
+            "title": "Fictional group leader",
+            "independent_pi": true,
+            "official_homepage": "https://research.example.invalid/person/5",
+            "last_verified": "2000-01-01T00:00:00Z",
+            "official_profile": "https://research.example.invalid/person/5"
+          },
+          "awards": [],
+          "honors": [],
+          "membership": [],
+          "works": [],
+          "projects": [],
+          "support": {
+            "stipend": {
+              "status": "unknown",
+              "amount": null,
+              "reason": "No personal award evidence"
+            }
+          },
+          "alumni": {
+            "total_publicly_listed_count": null,
+            "items": []
+          },
+          "lineage": {
+            "phd_advisor": {
+              "status": "unknown"
+            },
+            "postdoc_mentor": {
+              "status": "unknown"
+            }
+          },
+          "professional_roles": {
+            "academic_and_public": [],
+            "industry": {
+              "items": []
+            }
+          },
+          "section_unknown_reasons": {
+            "support": "No visitor-specific commitment."
+          },
+          "level": "basic"
+        },
+        "questions": [
+          "Current individual place remains unknown."
+        ]
+      },
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.organization",
+    "pk": 106,
+    "fields": {
+      "key": "demo-lab-6",
+      "name": "Synthetic Dynamics Lab 6",
+      "kind": "lab",
+      "parent": 6,
+      "url": "https://research.example.invalid/lab/6"
+    }
+  },
+  {
+    "model": "opportunities.person",
+    "pk": 6,
+    "fields": {
+      "name": "Demo Researcher F",
+      "organization": 106,
+      "url": "https://research.example.invalid/person/6",
+      "evidence": "Invented individual",
+      "verified_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.visitpath",
+    "pk": 6,
+    "fields": {
+      "key": "demo-path-6",
+      "institution": 6,
+      "name": "Synthetic visiting route 6",
+      "url": "https://research.example.invalid/route/6",
+      "identity_types": [
+        "visiting_student"
+      ],
+      "details": {
+        "eligibility": {
+          "doctoral_enrolled": true
+        },
+        "sponsor_required": true,
+        "duration_min_months": 1,
+        "duration_max_months": 12,
+        "actions": [
+          {
+            "label": "Check fictional host availability",
+            "url": "https://research.example.invalid/route/6"
+          }
+        ],
+        "costs": [],
+        "cash_facts": [],
+        "funding_note": "Personal cash support unknown; project totals excluded."
+      },
+      "evidence": [
+        {
+          "status": "verified",
+          "source_url": "https://research.example.invalid/evidence",
+          "url": "https://research.example.invalid/evidence",
+          "quote": "Synthetic evidence — invented for software demonstration only.",
+          "verified_at": "2000-01-01T00:00:00Z",
+          "last_verified": "2000-01-01T00:00:00Z"
+        }
+      ],
+      "verified_at": "2000-01-01T00:00:00Z",
+      "is_published": true
+    }
+  },
+  {
+    "model": "opportunities.researchtarget",
+    "pk": 6,
+    "fields": {
+      "key": "demo-target-6",
+      "institution": 6,
+      "group": 106,
+      "mentors": [
+        6
+      ],
+      "paths": [
+        6
+      ],
+      "region": "合成地区",
+      "country": "合成地区",
+      "themes": [
+        "neural_dynamics",
+        "control"
+      ],
+      "url": "https://research.example.invalid/lab/6",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "is_published": true,
+      "receiving_status": "unknown",
+      "role_class": "group_leader",
+      "host_capability": "unknown",
+      "actionability": "reference_only",
+      "classification_evidence": {
+        "current_active": true,
+        "institution_verified": true,
+        "official_profile_url": "https://research.example.invalid/person/6",
+        "route_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "next_action": "Review invented host route; do not contact any real person.",
+        "personal_research_bridge": "Synthetic neural feedback scenario",
+        "current_role": "Fictional group leader",
+        "support_flags": [],
+        "host_verified_at": "2000-01-01T00:00:00Z",
+        "identity_verified_at": "2000-01-01T00:00:00Z"
+      },
+      "pending_change": false,
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "B",
+        "fit_reason": "虚构控制方法延伸示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "details": {
+        "research_basis": [
+          {
+            "title": "Synthetic neural control",
+            "summary": "Invented feedback mechanism",
+            "url": "https://research.example.invalid/paper",
+            "reading_scope": "official_summary"
+          }
+        ],
+        "match_reason": "虚构神经反馈机制与控制方法连接",
+        "physiology_basis": "Simulated neural feedback; no real scientific claim.",
+        "dossier": {
+          "level": "basic"
+        },
+        "mentor_profile": {
+          "identity": {
+            "institution": "Synthetic University 06",
+            "title": "Fictional group leader",
+            "independent_pi": true,
+            "official_homepage": "https://research.example.invalid/person/6",
+            "last_verified": "2000-01-01T00:00:00Z",
+            "official_profile": "https://research.example.invalid/person/6"
+          },
+          "awards": [],
+          "honors": [],
+          "membership": [],
+          "works": [],
+          "projects": [],
+          "support": {
+            "stipend": {
+              "status": "unknown",
+              "amount": null,
+              "reason": "No personal award evidence"
+            }
+          },
+          "alumni": {
+            "total_publicly_listed_count": null,
+            "items": []
+          },
+          "lineage": {
+            "phd_advisor": {
+              "status": "unknown"
+            },
+            "postdoc_mentor": {
+              "status": "unknown"
+            }
+          },
+          "professional_roles": {
+            "academic_and_public": [],
+            "industry": {
+              "items": []
+            }
+          },
+          "section_unknown_reasons": {
+            "support": "No visitor-specific commitment."
+          },
+          "level": "basic"
+        },
+        "questions": [
+          "Current individual place remains unknown."
+        ]
+      },
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.opportunity",
+    "pk": 1,
+    "fields": {
+      "key": "demo-opportunity-1",
+      "type": "visiting",
+      "identity": "6b01c344dbe5827bec3e711f9debb1e0cf4bf98478461b140c813fb873f88591",
+      "title": "Synthetic opportunity 1",
+      "title_zh": "虚构神经反馈研究机会 1",
+      "country": "合成地区",
+      "region": "合成地区",
+      "discipline": "控制与神经动力学",
+      "institution": 1,
+      "source": 1,
+      "url": "https://research.example.invalid/opportunity/1",
+      "application_url": "https://research.example.invalid/application",
+      "mentors": [
+        1
+      ],
+      "status": "open",
+      "review_status": "verified",
+      "is_published": true,
+      "is_test": false,
+      "summary_zh": "合成场景：研究神经反馈稳定性，展示研究匹配、申请状态和资金依据的区分。",
+      "eligibility": "Fictional visiting doctoral student; verify actual identity before importing.",
+      "language_requirements": "English in fictional scenario",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "pending_change": false,
+      "translation_status": "ready",
+      "identity_fit": "directly_applicable",
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "A",
+        "fit_reason": "虚构闭环神经动力学示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "deadline_mode": "fixed",
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.evidence",
+    "pk": 1,
+    "fields": {
+      "opportunity": 1,
+      "field": "research",
+      "quote": "Entirely invented source sentence for software demo.",
+      "url": "https://research.example.invalid/opportunity/1",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "method": "synthetic_demo"
+    }
+  },
+  {
+    "model": "opportunities.deadline",
+    "pk": 1,
+    "fields": {
+      "opportunity": 1,
+      "kind": "application",
+      "date": "2099-12-31",
+      "status": "verified",
+      "effect": "hard_close",
+      "timezone": "UTC"
+    }
+  },
+  {
+    "model": "opportunities.opportunity",
+    "pk": 2,
+    "fields": {
+      "key": "demo-opportunity-2",
+      "type": "position",
+      "identity": "c4b887415867511379218b2aeb2e7daf360eb7adb33f74608f348288aa9eb18a",
+      "title": "Synthetic opportunity 2",
+      "title_zh": "虚构神经反馈研究机会 2",
+      "country": "合成地区",
+      "region": "合成地区",
+      "discipline": "控制与神经动力学",
+      "institution": 2,
+      "source": 1,
+      "url": "https://research.example.invalid/opportunity/2",
+      "application_url": "https://research.example.invalid/application",
+      "mentors": [
+        2
+      ],
+      "status": "upcoming",
+      "review_status": "verified",
+      "is_published": true,
+      "is_test": false,
+      "summary_zh": "合成场景：研究神经反馈稳定性，展示研究匹配、申请状态和资金依据的区分。",
+      "eligibility": "Fictional visiting doctoral student; verify actual identity before importing.",
+      "language_requirements": "English in fictional scenario",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "pending_change": false,
+      "translation_status": "ready",
+      "identity_fit": "potentially_applicable",
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "A",
+        "fit_reason": "虚构闭环神经动力学示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "deadline_mode": "fixed",
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.evidence",
+    "pk": 2,
+    "fields": {
+      "opportunity": 2,
+      "field": "research",
+      "quote": "Entirely invented source sentence for software demo.",
+      "url": "https://research.example.invalid/opportunity/2",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "method": "synthetic_demo"
+    }
+  },
+  {
+    "model": "opportunities.deadline",
+    "pk": 2,
+    "fields": {
+      "opportunity": 2,
+      "kind": "application",
+      "date": "2099-12-31",
+      "status": "verified",
+      "effect": "hard_close",
+      "timezone": "UTC"
+    }
+  },
+  {
+    "model": "opportunities.opportunity",
+    "pk": 3,
+    "fields": {
+      "key": "demo-opportunity-3",
+      "type": "scholarship",
+      "identity": "85961c6be2cfc730781518508f58b9cdcf0d9e177de0fb2910a31c3c73e4d0ef",
+      "title": "Synthetic opportunity 3",
+      "title_zh": "虚构神经反馈研究机会 3",
+      "country": "合成地区",
+      "region": "合成地区",
+      "discipline": "控制与神经动力学",
+      "institution": 3,
+      "source": 1,
+      "url": "https://research.example.invalid/opportunity/3",
+      "application_url": "https://research.example.invalid/application",
+      "mentors": [
+        3
+      ],
+      "status": "unknown",
+      "review_status": "verified",
+      "is_published": true,
+      "is_test": false,
+      "summary_zh": "合成场景：研究神经反馈稳定性，展示研究匹配、申请状态和资金依据的区分。",
+      "eligibility": "Fictional visiting doctoral student; verify actual identity before importing.",
+      "language_requirements": "English in fictional scenario",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "pending_change": false,
+      "translation_status": "ready",
+      "identity_fit": "potentially_applicable",
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "A",
+        "fit_reason": "虚构闭环神经动力学示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "deadline_mode": "fixed",
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.evidence",
+    "pk": 3,
+    "fields": {
+      "opportunity": 3,
+      "field": "research",
+      "quote": "Entirely invented source sentence for software demo.",
+      "url": "https://research.example.invalid/opportunity/3",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "method": "synthetic_demo"
+    }
+  },
+  {
+    "model": "opportunities.deadline",
+    "pk": 3,
+    "fields": {
+      "opportunity": 3,
+      "kind": "application",
+      "date": "2099-12-31",
+      "status": "verified",
+      "effect": "hard_close",
+      "timezone": "UTC"
+    }
+  },
+  {
+    "model": "opportunities.opportunity",
+    "pk": 4,
+    "fields": {
+      "key": "demo-opportunity-4",
+      "type": "visiting_route",
+      "identity": "9c10e84ca14bf15c2d6765040f20719d1615aa685557e63dea4b766825ecd0ef",
+      "title": "Synthetic opportunity 4",
+      "title_zh": "虚构神经反馈研究机会 4",
+      "country": "合成地区",
+      "region": "合成地区",
+      "discipline": "控制与神经动力学",
+      "institution": 4,
+      "source": 1,
+      "url": "https://research.example.invalid/opportunity/4",
+      "application_url": "https://research.example.invalid/application",
+      "mentors": [
+        4
+      ],
+      "status": "closed",
+      "review_status": "verified",
+      "is_published": true,
+      "is_test": false,
+      "summary_zh": "合成场景：研究神经反馈稳定性，展示研究匹配、申请状态和资金依据的区分。",
+      "eligibility": "Fictional visiting doctoral student; verify actual identity before importing.",
+      "language_requirements": "English in fictional scenario",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "pending_change": false,
+      "translation_status": "ready",
+      "identity_fit": "potentially_applicable",
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "A",
+        "fit_reason": "虚构闭环神经动力学示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "deadline_mode": "fixed",
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.evidence",
+    "pk": 4,
+    "fields": {
+      "opportunity": 4,
+      "field": "research",
+      "quote": "Entirely invented source sentence for software demo.",
+      "url": "https://research.example.invalid/opportunity/4",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "method": "synthetic_demo"
+    }
+  },
+  {
+    "model": "opportunities.deadline",
+    "pk": 4,
+    "fields": {
+      "opportunity": 4,
+      "kind": "application",
+      "date": "1999-12-31",
+      "status": "verified",
+      "effect": "hard_close",
+      "timezone": "UTC"
+    }
+  },
+  {
+    "model": "opportunities.opportunity",
+    "pk": 5,
+    "fields": {
+      "key": "demo-opportunity-5",
+      "type": "visiting",
+      "identity": "0a5d8bcc49c89b9d638b3dd0e026fdafefa07cab7605a0d9ed366912c816bfa4",
+      "title": "Synthetic opportunity 5",
+      "title_zh": "虚构神经反馈研究机会 5",
+      "country": "合成地区",
+      "region": "合成地区",
+      "discipline": "控制与神经动力学",
+      "institution": 5,
+      "source": 1,
+      "url": "https://research.example.invalid/opportunity/5",
+      "application_url": "https://research.example.invalid/application",
+      "mentors": [
+        5
+      ],
+      "status": "open",
+      "review_status": "verified",
+      "is_published": true,
+      "is_test": false,
+      "summary_zh": "合成场景：研究神经反馈稳定性，展示研究匹配、申请状态和资金依据的区分。",
+      "eligibility": "Fictional visiting doctoral student; verify actual identity before importing.",
+      "language_requirements": "English in fictional scenario",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "pending_change": true,
+      "translation_status": "stale",
+      "identity_fit": "directly_applicable",
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "B",
+        "fit_reason": "虚构控制方法延伸示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "deadline_mode": "fixed",
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.evidence",
+    "pk": 5,
+    "fields": {
+      "opportunity": 5,
+      "field": "research",
+      "quote": "Entirely invented source sentence for software demo.",
+      "url": "https://research.example.invalid/opportunity/5",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "method": "synthetic_demo"
+    }
+  },
+  {
+    "model": "opportunities.deadline",
+    "pk": 5,
+    "fields": {
+      "opportunity": 5,
+      "kind": "application",
+      "date": "2099-12-31",
+      "status": "verified",
+      "effect": "hard_close",
+      "timezone": "UTC"
+    }
+  },
+  {
+    "model": "opportunities.opportunity",
+    "pk": 6,
+    "fields": {
+      "key": "demo-opportunity-6",
+      "type": "postdoc",
+      "identity": "a386c9fec40607079cf40c0275b2672133df71a4ff6a5bf0da0862b0fa883ef2",
+      "title": "Synthetic opportunity 6",
+      "title_zh": "虚构神经反馈研究机会 6",
+      "country": "合成地区",
+      "region": "合成地区",
+      "discipline": "控制与神经动力学",
+      "institution": 6,
+      "source": 1,
+      "url": "https://research.example.invalid/opportunity/6",
+      "application_url": "https://research.example.invalid/application",
+      "mentors": [
+        6
+      ],
+      "status": "unknown",
+      "review_status": "verified",
+      "is_published": true,
+      "is_test": false,
+      "summary_zh": "合成场景：研究神经反馈稳定性，展示研究匹配、申请状态和资金依据的区分。",
+      "eligibility": "Fictional visiting doctoral student; verify actual identity before importing.",
+      "language_requirements": "English in fictional scenario",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "pending_change": false,
+      "translation_status": "ready",
+      "identity_fit": "potentially_applicable",
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "B",
+        "fit_reason": "虚构控制方法延伸示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "deadline_mode": "fixed",
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.evidence",
+    "pk": 6,
+    "fields": {
+      "opportunity": 6,
+      "field": "research",
+      "quote": "Entirely invented source sentence for software demo.",
+      "url": "https://research.example.invalid/opportunity/6",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "method": "synthetic_demo"
+    }
+  },
+  {
+    "model": "opportunities.deadline",
+    "pk": 6,
+    "fields": {
+      "opportunity": 6,
+      "kind": "application",
+      "date": "2099-12-31",
+      "status": "verified",
+      "effect": "hard_close",
+      "timezone": "UTC"
+    }
+  },
+  {
+    "model": "opportunities.opportunity",
+    "pk": 7,
+    "fields": {
+      "key": "demo-opportunity-7",
+      "type": "doctoral_notice",
+      "identity": "bc560a5eacc6a061a51a2d00a6b55dd0afbad4f6cb222e2af69608a0067b7c6c",
+      "title": "Synthetic opportunity 7",
+      "title_zh": "虚构神经反馈研究机会 7",
+      "country": "合成地区",
+      "region": "合成地区",
+      "discipline": "控制与神经动力学",
+      "institution": 1,
+      "source": 1,
+      "url": "https://research.example.invalid/opportunity/7",
+      "application_url": "https://research.example.invalid/application",
+      "mentors": [
+        1
+      ],
+      "status": "unknown",
+      "review_status": "verified",
+      "is_published": true,
+      "is_test": false,
+      "summary_zh": "合成场景：研究神经反馈稳定性，展示研究匹配、申请状态和资金依据的区分。",
+      "eligibility": "Fictional visiting doctoral student; verify actual identity before importing.",
+      "language_requirements": "English in fictional scenario",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "pending_change": false,
+      "translation_status": "ready",
+      "identity_fit": "potentially_applicable",
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "B",
+        "fit_reason": "虚构控制方法延伸示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "deadline_mode": "fixed",
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.evidence",
+    "pk": 7,
+    "fields": {
+      "opportunity": 7,
+      "field": "research",
+      "quote": "Entirely invented source sentence for software demo.",
+      "url": "https://research.example.invalid/opportunity/7",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "method": "synthetic_demo"
+    }
+  },
+  {
+    "model": "opportunities.deadline",
+    "pk": 7,
+    "fields": {
+      "opportunity": 7,
+      "kind": "application",
+      "date": "2099-12-31",
+      "status": "verified",
+      "effect": "hard_close",
+      "timezone": "UTC"
+    }
+  },
+  {
+    "model": "opportunities.opportunity",
+    "pk": 8,
+    "fields": {
+      "key": "demo-opportunity-8",
+      "type": "doctoral_program",
+      "identity": "884fe18c7d0a37a593bbb48ec8348db16e73e0a578c423911479dbfaee6dd464",
+      "title": "Synthetic opportunity 8",
+      "title_zh": "虚构神经反馈研究机会 8",
+      "country": "合成地区",
+      "region": "合成地区",
+      "discipline": "控制与神经动力学",
+      "institution": 2,
+      "source": 1,
+      "url": "https://research.example.invalid/opportunity/8",
+      "application_url": "https://research.example.invalid/application",
+      "mentors": [
+        2
+      ],
+      "status": "unknown",
+      "review_status": "verified",
+      "is_published": true,
+      "is_test": false,
+      "summary_zh": "合成场景：研究神经反馈稳定性，展示研究匹配、申请状态和资金依据的区分。",
+      "eligibility": "Fictional visiting doctoral student; verify actual identity before importing.",
+      "language_requirements": "English in fictional scenario",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "pending_change": false,
+      "translation_status": "ready",
+      "identity_fit": "potentially_applicable",
+      "curation": {
+        "pool": "selected",
+        "fit_tier": "B",
+        "fit_reason": "虚构控制方法延伸示例",
+        "inclusion_reasons": [
+          {
+            "code": "priority20_research_fit",
+            "evidence": [
+              {
+                "status": "verified",
+                "source_url": "https://research.example.invalid/evidence",
+                "url": "https://research.example.invalid/evidence",
+                "quote": "Synthetic evidence — invented for software demonstration only.",
+                "verified_at": "2000-01-01T00:00:00Z",
+                "last_verified": "2000-01-01T00:00:00Z"
+              }
+            ]
+          }
+        ],
+        "review_state": "reviewed",
+        "fit_evidence": [
+          {
+            "status": "verified",
+            "source_url": "https://research.example.invalid/evidence",
+            "url": "https://research.example.invalid/evidence",
+            "quote": "Synthetic evidence — invented for software demonstration only.",
+            "verified_at": "2000-01-01T00:00:00Z",
+            "last_verified": "2000-01-01T00:00:00Z"
+          }
+        ],
+        "scope_class": "priority20_new"
+      },
+      "deadline_mode": "fixed",
+      "updated_at": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "opportunities.evidence",
+    "pk": 8,
+    "fields": {
+      "opportunity": 8,
+      "field": "research",
+      "quote": "Entirely invented source sentence for software demo.",
+      "url": "https://research.example.invalid/opportunity/8",
+      "verified_at": "2000-01-01T00:00:00Z",
+      "method": "synthetic_demo"
+    }
+  },
+  {
+    "model": "opportunities.deadline",
+    "pk": 8,
+    "fields": {
+      "opportunity": 8,
+      "kind": "application",
+      "date": "2099-12-31",
+      "status": "verified",
+      "effect": "hard_close",
+      "timezone": "UTC"
+    }
+  },
+  {
+    "model": "opportunities.financialfact",
+    "pk": 1,
+    "fields": {
+      "opportunity": 1,
+      "kind": "salary",
+      "amount": "2500.00",
+      "currency": "EUR",
+      "pay_period": "month",
+      "tax_basis": "gross",
+      "work_basis": "full_time",
+      "payments_per_year": 12,
+      "applicable_year": "2099",
+      "comparability_verified": true,
+      "verification_note": "Synthetic comparison only; no real financial evidence.",
+      "currency_evidence": "Fictional EUR"
+    }
+  },
+  {
+    "model": "opportunities.financialfact",
+    "pk": 2,
+    "fields": {
+      "opportunity": 2,
+      "kind": "stipend",
+      "amount": "2500.00",
+      "currency": "EUR",
+      "pay_period": "month",
+      "tax_basis": "unknown",
+      "work_basis": "not_applicable",
+      "payments_per_year": 12,
+      "applicable_year": "2099",
+      "comparability_verified": true,
+      "verification_note": "Synthetic comparison only; no real financial evidence.",
+      "currency_evidence": "Fictional EUR"
+    }
+  }
+]

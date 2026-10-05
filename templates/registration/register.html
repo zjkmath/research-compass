@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block content %}<section class="auth-panel panel"><div class="eyebrow">START YOUR JOURNEY</div><h1>创建研途账户</h1><p>使用 Django 账户体系；无需邮箱或第三方登录。</p><form method="post">{% csrf_token %}{{ form.as_p }}<button class="button wide">创建账户</button></form><p>已有账户？<a href="{% url 'login' %}">登录</a></p></section>{% endblock %}

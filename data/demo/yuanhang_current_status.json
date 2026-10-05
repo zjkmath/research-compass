@@ -1,0 +1,13 @@
+{
+  "synthetic": true,
+  "records": {
+    "demo-11": {
+      "current_program_verified": true,
+      "current_application_open": false,
+      "current_cycle": "Synthetic past cycle",
+      "checked_at": "2000-01-01T00:00:00Z",
+      "degree_level": "Fictional partner scenario",
+      "funding_rule": "No current award claim"
+    }
+  }
+}
